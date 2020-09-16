@@ -6,6 +6,6 @@ define move
 move = gets.strip
 input_to_index = move.to_i
 board = input_to_index - 1
-move = board
+board = move
 puts "Welcome to Tic-Tac-Toe"
 puts "What move would like like to make using 1 - 9?"
