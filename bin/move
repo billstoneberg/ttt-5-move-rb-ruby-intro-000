@@ -4,4 +4,5 @@ require_relative '../lib/move.rb'
 
 define move
 move = gets.strip
-move = gets.strip - 1
+input_to_index = move.to_i
+board = input_to_index - 1
