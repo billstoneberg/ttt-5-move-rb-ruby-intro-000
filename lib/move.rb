@@ -1,3 +1,4 @@
+move = gets.strip
 input_to_index = move.to_i
 board = input_to_index - 1
 def display_board(board)
