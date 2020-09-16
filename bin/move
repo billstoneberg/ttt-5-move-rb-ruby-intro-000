@@ -4,3 +4,4 @@ require_relative '../lib/move.rb'
 
 define move
 move = gets.strip
+move = gets.strip - 1
