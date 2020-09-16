@@ -1,3 +1,4 @@
+board = move.to_i
 board = move - 1
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
