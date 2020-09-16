@@ -7,5 +7,5 @@ move = gets.strip
 input_to_index = move.to_i
 board = input_to_index - 1
 board = move
-puts "Welcome to Tic-Tac-Toe"
-puts "What move would like like to make using 1 - 9?"
+puts "Welcome to Tic Tac Toe!"
+puts "Where would you like to go?"
